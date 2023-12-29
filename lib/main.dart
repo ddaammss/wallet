@@ -19,7 +19,7 @@ class App extends StatelessWidget {
           body: SingleChildScrollView(
             child: Padding(
               padding: const EdgeInsets.symmetric(
-                horizontal: 20,
+                horizontal: 200,
               ),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
